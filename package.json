@@ -1,0 +1,12 @@
+{
+    "name": "node-web-app",
+    "version": "1.0.0",
+    "description": "Node.js on Docker",
+    "author": "Fred Lock <www.fredlock.io>",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+    }
+}

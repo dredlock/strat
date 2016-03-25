@@ -1,0 +1,1 @@
+docker build -t flock/node-web-app .
