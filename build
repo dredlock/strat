@@ -1,1 +1,1 @@
-docker build -t flock/node-web-app .
+docker build -t flock/strat .
